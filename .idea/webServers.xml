@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="965b6d92-b7d5-405a-9706-6c654ddf1299" name="wx_abtest" url="http://live.91caiqing.com">
+        <fileTransfer host="49.235.146.250" port="22" rootFolder="/home/docker/wwwroot/abtest" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="90000" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
